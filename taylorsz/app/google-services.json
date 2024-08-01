@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "167933640113",
+    "firebase_url": "https://bdfinancasteka-default-rtdb.firebaseio.com",
+    "project_id": "bdfinancasteka",
+    "storage_bucket": "bdfinancasteka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167933640113:android:6d0be8a89cd88ca31d9190",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGK2rBlBrZ1qnDhmj0FJGT7JfxKxtIye0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

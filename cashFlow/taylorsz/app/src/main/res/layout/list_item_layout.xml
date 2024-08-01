@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/rounded_edittext_background"
+    android:backgroundTint="@color/white"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/text_view_descricao"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Descrição"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/text_view_tipo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Tipo"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/text_view_valor"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Valor"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_entrar_background"
+        android:backgroundTint="#FF0000"
+        android:text="Excluir" />
+</LinearLayout>
